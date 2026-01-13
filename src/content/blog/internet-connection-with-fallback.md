@@ -1,7 +1,7 @@
 ---
 title: 'Adding fallback internet connection to my home network'
 description: 'How I dealt with occassional internet connection failures at my home'
-pubDate: 'Jan 13th 2026'
+pubDate: 'Jan 13 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
