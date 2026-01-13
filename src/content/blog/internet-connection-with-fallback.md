@@ -9,6 +9,9 @@ Every now and then, I experience internet connection fallbacks—sometimes spect
 
 Other times, it’s just an unreliable ISP. They do maintenance or something similar, which results in annoyed family members and me being unable to work from home.
 
+As part of my mobile plan, I receive an additional LTE SIM card at no extra charge. This spare SIM can be used independently from my phone, making it ideal for a dedicated LTE router and allowing me to maintain internet connectivity at home whenever my primary fiber connection goes down.
+The only problem was making it feel seamless (kinda).
+
 Since I’m a heavy Home Assistant user and a DIY enthusiast with some experience with the ESP32, I decided to solve this somehow.
 
 The idea was as follows:
