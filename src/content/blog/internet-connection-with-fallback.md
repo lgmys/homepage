@@ -5,7 +5,7 @@ pubDate: 'Jan 13 2026'
 heroImage: '../../assets/blog-placeholder-3.jpg'
 ---
 
-Every now and then, I experience internet connection fallbacks—sometimes spectacular ones. For example, during a roof renovation, the aerial fiber cable was moved by the renovation team to a height below what is required by Polish law and was subsequently snapped by a garbage truck.
+Every now and then, I experience internet connection failures—sometimes spectacular ones. For example, during a roof renovation, the aerial fiber cable was moved by the renovation team to a height below what is required by Polish law and was subsequently snapped by a garbage truck.
 
 Other times, it’s just an unreliable ISP. They do maintenance or something similar, which results in annoyed family members and me being unable to work from home.
 
