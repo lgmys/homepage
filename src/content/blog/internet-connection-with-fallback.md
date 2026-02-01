@@ -2,7 +2,7 @@
 title: 'Adding fallback internet connection to my home network'
 description: 'How I dealt with occassional internet connection failures at my home'
 pubDate: 'Jan 13 2026'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: './wires.jpg'
 ---
 
 Every now and then, I experience internet connection failures—sometimes spectacular ones. For example, during a roof renovation, the aerial fiber cable was moved by the renovation team to a height below what is required by Polish law and was subsequently snapped by a garbage truck.
