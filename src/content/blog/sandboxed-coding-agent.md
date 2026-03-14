@@ -2,7 +2,7 @@
 title: 'Notes on sandboxed coding agents'
 description: 'How to setup Claude Code or other coding agents in a secure sandbox'
 pubDate: 'Mar 14 2026'
-heroImage: './wires.jpg'
+heroImage: './llm-sandbox.png'
 ---
 
 TLDR;
